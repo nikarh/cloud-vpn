@@ -1,0 +1,4 @@
+*/*.swp
+*/terraform.tfstate
+*/terraform.tfstate.backup
+*/client.ovpn

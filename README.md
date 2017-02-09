@@ -11,6 +11,6 @@ git clone https://github.com/nikarh/cloud-vpn.git
 ```sh
 cd digitalocean
 terraform apply # Enter region and DO token
-openvpn --config client.ovpn
+sudo openvpn --config client.ovpn
 ```
 
